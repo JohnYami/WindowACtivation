@@ -1,0 +1,96 @@
+body {
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.6DG5lUlw1OYJZEPXpY6lNQHaEK&pid=Api&P=0&h=220);
+    font-family: monospace;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  .established {
+    font-style: Monospace;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: rgb(226, 157, 66);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: outside;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: monospace, monospace;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 16px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: rgb(173, 20, 20);
+  }
+  
+  a:visited {
+    color: rgb(189, 19, 19);
+  }
+  
+  a:hover {
+    color: rgb(18, 216, 35);
+  }
+  
+  a:active {
+    color: rgb(27, 197, 56);
+  }
+ 
